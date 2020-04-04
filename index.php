@@ -7,6 +7,4 @@ class Index
 	
 }
 
-Index::say();
-
 ?>

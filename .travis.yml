@@ -1,4 +1,5 @@
 language: php
 php:
   - nightly
-script: index.php
+script:
+  - phpunit index.php

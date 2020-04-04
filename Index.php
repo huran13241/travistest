@@ -11,4 +11,5 @@ class Index
 	}	
 }
 
+echo "hello world ya";
 ?> 

@@ -1,7 +1,10 @@
 <?php
 class Index
 {
-	echo "this is just a start"; 
+	public statis function say(){
+		echo "this is just a start"; 
+	}
+	Index::say();
 }
 
 

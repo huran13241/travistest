@@ -1,7 +1,7 @@
 <?php
 class Index
 {
-	public statis function say(){
+	public static function say(){
 		echo "this is just a start"; 
 	}
 	Index::say();

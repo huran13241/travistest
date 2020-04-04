@@ -2,4 +2,4 @@ language: php
 php:
   - nightly
 script:
-  - phpunit index.php
+  - phpunit --bootstrap index.php

@@ -1,10 +1,13 @@
 <?php
+
+declare(strict_types=1);
+
 class Index
 {
-	public static function say(){
-		echo "this is just a start"; 
-	}
-	
+	public static function say($arg){
+		
+		return $this;
+	}	
 }
 
-?>
+?> 

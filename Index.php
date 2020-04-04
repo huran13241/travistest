@@ -7,7 +7,7 @@ class Index
 {
 	public static function say($arg){
 		
-		return $this;
+		return new self();
 	}	
 }
 

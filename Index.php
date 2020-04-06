@@ -11,5 +11,5 @@ class Index
 	}	
 }
 
-echo "hello world ya";
+echo "hello world ya111";
 ?> 
